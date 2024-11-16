@@ -1,0 +1,14 @@
+{
+  "name": "my-ci-cd-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^8.3.2",
+    "supertest": "^6.1.3"
+  }
+}
